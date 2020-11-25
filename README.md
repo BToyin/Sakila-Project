@@ -1,5 +1,14 @@
 # Sakila Database Movie Rental Project
 
+## Client Requirements
+You are required to implement a web app front end for the sakila database. The database models the data associated with a movie rental business.
+ 
+The Web App will provide data for 3 levels of user:
+- Visitor: Will be able to see all information about movies and actors
+- Customer: Will be able to see their own account information including which movies they have rented
+- Owner: Has all levels of access and can write to the database i.e creating new customers and adding movies. Can see all customer information and and what movies have been taken out
+The Web App should be focused on usability. It should be fair simple and intuitive to use. Think about what you would normally do on a site like Netflix/Amazon Prime/Apple Movies etc
+
 ## Sprint 0 - Planning 
  - Populated product backlog with user  stories based on client specifications
  - Added acceptance criteria to each user story
